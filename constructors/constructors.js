@@ -1,8 +1,9 @@
 function Person(name, age){
     this.name = name;
     this.age = age;
+    this.greet = greet;
 }
-let person = new Person('Ann', 25);
+let person = new Person('Ann', 25, "Hello");
 console.log({person});
 console.log(person.age);
 
