@@ -15,7 +15,7 @@ let student = new Person("Henry", 19);
 console.log({student})
 
 console.log(Person.prototype);
-Person.prototype.gender = "Female"; //add property - gender
+Person.prototype.gender = "Female"; //add property - genderd arr
 console.log(Person.prototype);
 
 let person2 = new Person('Jane', 20);

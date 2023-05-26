@@ -9,7 +9,7 @@ let data = [{}];
         // resolve("user succesfully created")
     }
     else{
-        setTimeout(()=> {resolve('user already exist')}, 5000);
+        setTimeout(()=> {reject('user already exist')}, 5000);
         // reject("user already exist");
     }
     

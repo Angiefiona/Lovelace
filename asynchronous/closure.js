@@ -6,8 +6,9 @@ let greet = () =>{
     }
     return displayName
 }
-let talk = greet();
+let talk = greet("Happy");
 console.log({talk});
+console.log(talk("Happy"))
 
 
 // example2

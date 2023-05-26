@@ -15,11 +15,11 @@ for(let i = 0; i <num.length; i++){
     console.log({"countinue":num[i]});
 }
 
-let num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
-function findItem(num2){
-    let index = 0
-    for(let index)
-}
+// let num2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+// function findItem(num2){
+//     let index = 0
+//     for(let index)
+// }
 
 
 
